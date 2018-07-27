@@ -1,9 +1,31 @@
 # Skills
+- Skill: PostGIS/PostGRES
+  Description: PostGRES is a Relational Database, PostGIS is an extension that provides the ability to handle geographic information. 
+- Skill: HTML/CSS and Javascript
+  Descrition: Haved used HTML/CSS and Javascript to create interactive web maps for the National Map Corps.   
+- Skill: R 
+  Description: Learn R in 2016 and suses it regularly to conduct spatial analysis for various projects. 
+- Skill: Microsoft Office Products 
+  Description: I have skills in Excel, Word, Powerpoint, Publisher and Access
 
 # Education
-- skill: Education
-  description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
+- College: Brookdale Community College
+  Description: Attened Brookdale Community College from 2006 to 2009.  A.A in Broadcasting   
+- College: Townson Univeristy 
+  Description: Attended Towson University from 2009 to 2013.B.S Anthropology and Sociology 
+- Graduate School: University of Colorado Denver 
+  Description :  Attended University of Colorado Denver from 2015 to 2018. M.A in Applied Geography and Geospatial Science
 
 # Leadership
-- skill: Leadership
-  description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+- Group: Vanguard Cabinet - URISA
+  Role: General Member  
+  Description: A series of Young Professionals who serve on the Vanguard Cabniet in order to support the next generation of GIS Professionals 
+- Group: Maptime
+  Role: Facilitator
+  Description: A community based mapping community that teaches and supports geospatial sciencxe and technology through regularly scheduled meetups. 
+  
+# Publications 
+- Organziation: Geohipster 
+  Description: Geohipster a online community that showcases various individuals from the geospatial community. Interview was conducted May of 2018. 
+  Website: ![Geohipster Interview](http://geohipster.com/2018/05/21/rachel-stevenson-i-love-being-early-to-geo-centric-technologies/)
+ 
